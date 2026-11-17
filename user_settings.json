@@ -1,0 +1,22 @@
+{
+  "personaMode": "agent",
+  "live2dModel": "lobby",
+  "live2dExpanded": true,
+  "voiceEnabled": true,
+  "liveAvatar": true,
+  "saveMemory": true,
+  "contextDepth": 52,
+  "internetSearch": true,
+  "speedMode": "turbo",
+  "fontFamily": "'Cascadia Mono', 'Consolas', 'Courier New', monospace",
+  "fontSize": 12,
+  "theme": "arisu-cyan",
+  "accentColor": "#00d2ff",
+  "secondaryColor": "#38bdf8",
+  "arisuColor": "#67e8f9",
+  "textColor": "#ecfeff",
+  "bgColor": "#07131d",
+  "screenWidth": 100,
+  "screenHeight": 100,
+  "cornerRadius": 22
+}

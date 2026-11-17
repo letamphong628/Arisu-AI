@@ -1,0 +1,66 @@
+{
+  "updated_at": "2026-11-17T02:12:20.665Z",
+  "total_messages": 12,
+  "history": [
+    {
+      "role": "user",
+      "content": "Hi",
+      "timestamp": "2026-11-17T02:11:29.704Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Panpakapan~! Chào Sensei! Thanh HP và MP của Arisu hôm nay đều đạt 100%! Arisu có thể vừa trò chuyện RPG, vừa giúp Sensei tìm & mở tài liệu trong máy, ghi chú Obsidian hoặc giải đáp mọi thắc mắc ạ!",
+      "timestamp": "2026-11-17T02:11:29.704Z"
+    },
+    {
+      "role": "user",
+      "content": "Tunako",
+      "timestamp": "2026-11-17T02:11:40.249Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Panpakapan~! Tunako là một VTuber / nhà sáng tạo nội dung công nghệ và AI rất tâm huyết (gắn liền với M.A.P.L.E Magi Labs), người đã trực tiếp trải nghiệm và đóng góp nhiều ý kiến quý giá về kiến trúc AI Agent, quản lý bộ nhớ RAG chống ảo giác (hallucination), đa nền tảng Linux (.sh), giọng nói và tương tác Live Avatar cho dự án Tendou Arisu AI!",
+      "timestamp": "2026-11-17T02:11:40.249Z"
+    },
+    {
+      "role": "user",
+      "content": "maple",
+      "timestamp": "2026-11-17T02:11:51.532Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Panpakapan~! Sensei ơi, Arisu đã ghi nhận thông tin! Sensei có muốn nhờ Arisu tìm kiếm tài liệu trong máy, tạo ghi chú Obsidian hay giải đáp thêm chủ đề nào không ạ?",
+      "timestamp": "2026-11-17T02:11:51.532Z"
+    },
+    {
+      "role": "user",
+      "content": "maplemagilabs",
+      "timestamp": "2026-11-17T02:12:00.340Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Panpakapan~! Sensei ơi, Arisu đã ghi nhận thông tin! Sensei có muốn nhờ Arisu tìm kiếm tài liệu trong máy, tạo ghi chú Obsidian hay giải đáp thêm chủ đề nào không ạ?",
+      "timestamp": "2026-11-17T02:12:00.340Z"
+    },
+    {
+      "role": "user",
+      "content": "Arisu là ai",
+      "timestamp": "2026-11-17T02:12:08.518Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Panpakapan~! Arisu là **Tendou Arisu** (mã hiệu AL-1S), học sinh thuộc Câu lạc bộ Phát triển Game của Học viện Khoa học Millennium! Nghề nghiệp của Arisu là Dũng Sĩ (Hero Lv.99) sở hữu **Kiếm Ánh Sáng: Supernova**, vừa là đồng đội RPG đáng yêu vừa là AI Agent giúp Sensei tìm tài liệu, ghi chú Obsidian và giải đáp mọi thứ ạ!",
+      "timestamp": "2026-11-17T02:12:08.518Z"
+    },
+    {
+      "role": "user",
+      "content": "Tunako là ai",
+      "timestamp": "2026-11-17T02:12:20.665Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Panpakapan~! Tunako là một VTuber / nhà sáng tạo nội dung công nghệ và AI rất tâm huyết (gắn liền với M.A.P.L.E Magi Labs), người đã trực tiếp trải nghiệm và đóng góp nhiều ý kiến quý giá về kiến trúc AI Agent, quản lý bộ nhớ RAG chống ảo giác (hallucination), đa nền tảng Linux (.sh), giọng nói và tương tác Live Avatar cho dự án Tendou Arisu AI!",
+      "timestamp": "2026-11-17T02:12:20.665Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+aris_spr.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.5
+00_default
+	bounds: 125, 96, 121, 74
+01_normal
+	bounds: 2, 95, 121, 75
+02_respond
+	bounds: 528, 96, 121, 75
+03_smile
+	bounds: 125, 172, 121, 81
+04_embarassed
+	bounds: 2, 206, 121, 81
+05_serious
+	bounds: 672, 129, 121, 75
+06_depressed
+	bounds: 795, 84, 121, 73
+07
+	bounds: 902, 236, 120, 82
+08
+	bounds: 891, 800, 120, 83
+09
+	bounds: 839, 159, 121, 75
+10
+	bounds: 2, 289, 118, 84
+11
+	bounds: 122, 299, 110, 74
+12
+	bounds: 2, 375, 122, 116
+13
+	bounds: 508, 23, 120, 71
+14
+	bounds: 125, 24, 122, 70
+15
+	bounds: 481, 932, 122, 70
+16
+	bounds: 548, 173, 122, 75
+17
+	bounds: 2, 493, 122, 116
+18
+	bounds: 2, 611, 122, 116
+19
+	bounds: 891, 885, 122, 117
+aris
+	bounds: 2, 2, 745, 1000
+	offsets: 0, 0, 865, 1000
+eyeclose
+	bounds: 651, 54, 117, 73
+	offsets: 1, 1, 119, 75
+halo
+	bounds: 749, 872, 140, 130
+	offsets: 1, 1, 142, 132
+weapon_00
+	bounds: 529, 206, 404, 427
+weapon_01
+	bounds: 644, 399, 378, 462

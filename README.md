@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./Arisu.png" alt="Tendou Arisu AI" width="120" style="border-radius: 24px;" />
-  <h1>㉿ Tendou Arisu AI v4.0 — Kali Linux Terminal (Agent & Roleplay OS)</h1>
+  <h1>㉿ Tendou Arisu AI v4.0 (Agent & Roleplay OS)</h1>
   <p><b>AI Agent Hỗ Trợ Máy Tính &amp; Roleplay Tendou Arisu (Blue Archive) • Đa Nền Tảng (Windows / Linux / macOS) • Chạy Độc Lập Offline &amp; Online</b></p>
 </div>
 

@@ -14,8 +14,12 @@
   },
   "knowledge_entries": [
     {
-      "keywords": ["tunako", "m.a.p.l.e", "maple magi labs", "vtuber tunako"],
-      "fact": "Tunako là một VTuber / nhà sáng tạo nội dung công nghệ và AI rất tâm huyết (gắn liền với M.A.P.L.E Magi Labs), người đã trực tiếp trải nghiệm và đóng góp nhiều ý kiến quý giá về kiến trúc AI Agent, quản lý bộ nhớ RAG chống ảo giác (hallucination), đa nền tảng Linux (.sh), giọng nói và tương tác Live Avatar cho dự án Tendou Arisu AI!"
+      "keywords": ["tunako", "vtuber tunako", "tuna"],
+      "fact": "Tunako là một nhà sáng tạo / VTuber yêu thích công nghệ và Blue Archive, người đã trực tiếp trải nghiệm và đóng góp nhiều ý kiến quý giá giúp nâng cấp dự án Tendou Arisu AI v4.0 (hỗ trợ Linux .sh, kiến trúc AI Agent, tách chế độ Model: Agent và Model: RP, bộ nhớ RAG chống ảo giác, Live2D tương tác và âm thanh)."
+    },
+    {
+      "keywords": ["m.a.p.l.e", "maple magi labs", "maple"],
+      "fact": "M.A.P.L.E Magi Labs là một nhà sáng tạo / nhóm phát triển công nghệ AI độc lập (một người/đội ngũ riêng biệt hoàn toàn với Tunako), được Sensei nhắc tới và trân trọng trong cộng đồng sáng tạo AI."
     },
     {
       "keywords": ["rpg maker protection", "rpgmakerprotectionsuite", "shieldloader", "openrpgloader"],
